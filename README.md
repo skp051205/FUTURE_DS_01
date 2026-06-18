@@ -1,5 +1,7 @@
 # Superstore Sales Analysis Dashboard
 
+## 📌 Task 1 | Future Interns | Data Science & Analytics Internship
+
 ## Project Overview
 This project analyzes Superstore sales data to identify revenue trends, 
 top-performing categories, and regional profitability.
